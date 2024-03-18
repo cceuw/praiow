@@ -208,11 +208,18 @@ margin: 0px;
     height: 260px;    
     float: left;                         
    }
-   .cards {
+   .cards-part {
     display:flex;
     flex-direction: row;
     justify-content: center;
     align-items: center;
+   }
+
+   .cards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
    }
 
    .card-fist{
