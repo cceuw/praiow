@@ -314,6 +314,7 @@ h5 {
   touch-action: manipulation;
   margin-top: 25px;
   margin-left: 25px;
+  font-family: monospace;
 }
 
 .button-85:before {
